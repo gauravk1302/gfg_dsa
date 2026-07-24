@@ -5,11 +5,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 6 | 5 | 1 | 0 |
-| **Total** | **6** | **5** | **1** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 | - |
+| GeeksforGeeks | 7 | 5 | 1 | 0 | 1 |
+| **Total** | **7** | **5** | **1** | **0** | **1** |
 
 ## Solved Problems
 
@@ -21,4 +21,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [Reverse a Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_ReverseALinkedList.java) |
 | 5 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
 | 6 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_IndexesOfSubarraySum.java) |
+| 7 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
 <!-- COMMITDSA_END -->
