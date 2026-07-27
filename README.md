@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 8 | 6 | 1 | 0 | 1 |
-| **Total** | **8** | **6** | **1** | **0** | **1** |
+| GeeksforGeeks | 9 | 7 | 1 | 0 | 1 |
+| **Total** | **9** | **7** | **1** | **0** | **1** |
 
 ## Solved Problems
 
@@ -19,8 +19,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [Linked List Delete at Position](https://practice.geeksforgeeks.org/problems/linked-list-delete-at-position/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_LinkedListDeleteAtPosition.java) |
 | 3 | [Linked List Insertion At Beginning](https://practice.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_LinkedListInsertionAtBeginning.java) |
 | 4 | [Middle of a Linked List](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MiddleOfALinkedList.java) |
-| 5 | [Reverse a Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_ReverseALinkedList.java) |
-| 6 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
-| 7 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_IndexesOfSubarraySum.java) |
-| 8 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 5 | [Node at a given index in linked list](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_NodeAtAGivenIndexInLinkedList.java) |
+| 6 | [Reverse a Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_ReverseALinkedList.java) |
+| 7 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
+| 8 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_IndexesOfSubarraySum.java) |
+| 9 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
 <!-- COMMITDSA_END -->
