@@ -1,0 +1,49 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1
+ * Platform     : GFG
+ * Difficulty   : Easy
+ */
+
+/*
+class Node
+{
+    int data;
+    Node next;
+
+    Node(int x){
+        data = x;
+        next = null;
+    }
+}*/
+
+class Solution {
+    public static Node moveToFront(Node head) {
+        // code here
+         if (head == null || head.next == null) {
+            return head;
+        }
+      
+        // To keep track of the second last node
+        Node secLast = null; 
+        
+        // To traverse to the last node
+        Node last = head;    
+
+        // Traverse the list to find the last and 
+        // second last nodes
+        while (last.next != null) {
+            secLast = last;
+            last = last.next;
+        }
+
+        // Change the next of second last node to null
+        secLast.next = null;
+
+        // Make the last node as the new head
+        last.next = head;
+        head = last;
+
+        return head;
+    }
+}
+
