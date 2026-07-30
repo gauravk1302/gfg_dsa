@@ -20,26 +20,25 @@ class Solution {
 	static int getLength(Node head) {
 		
 		int length = 0 ;
-		
-		while (head != null) {
-			length++;
-			head = head.next;
-		}
-		
-		return length;
+		 while(head != null){
+		     length++;
+		     head = head.next;
+		 }
+		 
+		 return length;
 	}
-	int getMiddle(Node head) {
-		
-		int length = getLength(head);
-		
-		int midIdx = length/2;
-		
-		while (midIdx > 0) {
-			head = head.next;
-			midIdx--;
-		}
-		
-		return head.data;
+	
+	static int getMiddle( Node head){
+	    int len = getLength(head);
+	    
+	    int midIndex = len/2;
+	    
+	    while(midIndex >0 ){
+	        head = head.next;
+	        midIndex--;
+	    }
+	    
+	    return head.data;
 	}
 }
 
