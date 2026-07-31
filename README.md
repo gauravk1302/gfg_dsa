@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 10 | 8 | 1 | 0 | 1 |
-| **Total** | **10** | **8** | **1** | **0** | **1** |
+| GeeksforGeeks | 11 | 9 | 1 | 0 | 1 |
+| **Total** | **11** | **9** | **1** | **0** | **1** |
 
 ## Solved Problems
 
@@ -25,4 +25,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
 | 9 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_IndexesOfSubarraySum.java) |
 | 10 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
+| 11 | [Make Middle Node Head in a Linked List](https://github.com/gauravk1302/gfg_dsa/blob/main/GFG/Easy/0_MakeMiddleNodeHeadInALinkedList.java) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MakeMiddleNodeHeadInALinkedList.java) |
+
 <!-- COMMITDSA_END -->
