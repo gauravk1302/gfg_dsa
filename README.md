@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 11 | 9 | 1 | 0 | 1 |
-| **Total** | **11** | **9** | **1** | **0** | **1** |
+| GeeksforGeeks | 10 | 8 | 1 | 0 | 1 |
+| **Total** | **10** | **8** | **1** | **0** | **1** |
 
 ## Solved Problems
 
@@ -20,11 +20,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [Linked List Insertion At Beginning](https://practice.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_LinkedListInsertionAtBeginning.java) |
 | 4 | [Middle of a Linked List](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MiddleOfALinkedList.java) |
 | 5 | [Move Last to Front of a Linked List](https://practice.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MoveLastToFrontOfALinkedList.java) |
-| 6 | [Node at a given index in linked list](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_NodeAtAGivenIndexInLinkedList.java) |
+| 6 | [Node at Given Index](https://practice.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_NodeAtGivenIndex.java) |
 | 7 | [Reverse a Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_ReverseALinkedList.java) |
 | 8 | [Search in Linked List](https://practice.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_SearchInLinkedList.java) |
 | 9 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_IndexesOfSubarraySum.java) |
 | 10 | [Identical Linked Lists](https://practice.geeksforgeeks.org/problems/identical-linked-lists/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_IdenticalLinkedLists.java) |
-| 11 | [Make Middle Node Head in a Linked List](https://github.com/gauravk1302/gfg_dsa/blob/main/GFG/Easy/0_MakeMiddleNodeHeadInALinkedList.java) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MakeMiddleNodeHeadInALinkedList.java) |
-
 <!-- COMMITDSA_END -->
