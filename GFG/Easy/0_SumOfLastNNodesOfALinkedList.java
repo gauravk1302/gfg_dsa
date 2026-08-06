@@ -33,7 +33,7 @@ class Solution {
         int c = len - n;
         temp= head;
         
-        while( temp != null & c-- >0){
+        while( temp != null && c-- >0){
             temp = temp.next;
         }
         
