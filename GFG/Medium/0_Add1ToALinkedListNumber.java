@@ -6,44 +6,26 @@
 
 class Solution {
 
-    // Reverse function
-    Node reverse(Node head) {
-        Node prev = null;
-        Node curr = head;
-
-        while (curr != null) {
-            Node next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+    static int addWithCarry(Node head) {
+        if (head == null) {
+            return 1;
         }
 
-        return prev;
+        int res = head.data + addWithCarry(head.next);
+
+        head.data = res % 10;
+        return res / 10;
     }
 
-    // Main function
-    public Node addOne(Node head) {
-
-        head = reverse(head);
-
-        Node curr = head;
-        Node prev = null;
-        int carry = 1;
-
-        while (curr != null && carry > 0) {
-            int sum = curr.data + carry;
-
-            curr.data = sum % 10;
-            carry = sum / 10;
-
-            prev = curr;
-            curr = curr.next;
-        }
+    static Node addOne(Node head) {
+        int carry = addWithCarry(head);
 
         if (carry > 0) {
-            prev.next = new Node(carry);
+            Node newNode = new Node(carry);
+            newNode.next = head;
+            return newNode;
         }
 
-        return reverse(head);
+        return head;
     }
 }
